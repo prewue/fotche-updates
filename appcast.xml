@@ -6,6 +6,18 @@
         <description>Sparkle update feed for Fotche.</description>
         <language>en</language>
         <item>
+            <title>Version 0.0.3</title>
+            <pubDate>Mon, 18 May 2026 16:58:00 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/prewue/fotche-updates/releases/download/v0.0.3/Fotche-0.0.3.zip"
+                length="10943144"
+                type="application/octet-stream"
+                sparkle:edSignature="IlcmxykoqJQvJ4tKA+fyiP3osaN+Lu5Psdb5kKtrjIodNnz+fEVuyc1qjzXAH6gcCR7pb+jNZ+yzKoq40qkyBQ==" />
+        </item>
+        <item>
             <title>Version 0.0.2</title>
             <pubDate>Mon, 18 May 2026 16:55:27 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
@@ -16,18 +28,6 @@
                 length="10943156"
                 type="application/octet-stream"
                 sparkle:edSignature="CuxUcGzzMsGCqeemdIIS+Skln17YSFH9zx8SLZ3FbRGLOK5nKkF4TIT+iLwgNQyFscvMya2QnxPWvkcpymOhAg==" />
-        </item>
-        <item>
-            <title>Version 0.0.3</title>
-            <pubDate>Mon, 18 May 2026 16:44:00 +0000</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/prewue/fotche-updates/releases/download/v0.0.3/Fotche-0.0.3.zip"
-                length="8032177"
-                type="application/octet-stream"
-                sparkle:edSignature="XcQhvzftI2uSvZ5WtgabMiCUyAyMg99z3N5ogZL3B+0wAtei4IGz4j2/zF2e284JAXkve/4jdr3xStJdh/wlAg==" />
         </item>
     </channel>
 </rss>
