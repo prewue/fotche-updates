@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Fotche</title>
+        <link>https://raw.githubusercontent.com/prewue/fotche-updates/main/appcast.xml</link>
+        <description>Sparkle update feed for Fotche.</description>
+        <language>en</language>
+    </channel>
+</rss>
