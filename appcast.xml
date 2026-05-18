@@ -5,5 +5,17 @@
         <link>https://raw.githubusercontent.com/prewue/fotche-updates/main/appcast.xml</link>
         <description>Sparkle update feed for Fotche.</description>
         <language>en</language>
+        <item>
+            <title>Version 0.0.2</title>
+            <pubDate>Mon, 18 May 2026 16:39:48 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/prewue/fotche-updates/releases/download/v0.0.2/Fotche-0.0.2.zip"
+                length="8032194"
+                type="application/octet-stream"
+                sparkle:edSignature="LxBFDUu2lDXYR7YXRrMwu2klzBOttD1jL+ps7lCCO4RQT8zi+a1y2wqZcemTgcKFlESCobUxCEhefBAuYZq8Aw==" />
+        </item>
     </channel>
 </rss>
