@@ -7,15 +7,15 @@
         <language>en</language>
         <item>
             <title>Version 0.0.3</title>
-            <pubDate>Mon, 18 May 2026 16:58:00 +0000</pubDate>
+            <pubDate>Wed, 20 May 2026 15:40:25 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/prewue/fotche-updates/releases/download/v0.0.3/Fotche-0.0.3.zip"
-                length="10943144"
+                length="8032293"
                 type="application/octet-stream"
-                sparkle:edSignature="IlcmxykoqJQvJ4tKA+fyiP3osaN+Lu5Psdb5kKtrjIodNnz+fEVuyc1qjzXAH6gcCR7pb+jNZ+yzKoq40qkyBQ==" />
+                sparkle:edSignature="DSth/bHi8tMU6YP5YhrD+1iXv93QI1smsTqbtnGGgZN5OhOiJckRgfc/OOuoNvhQ7sRtrTIqm4UM9+y/vH+0BQ==" />
         </item>
         <item>
             <title>Version 0.0.2</title>
